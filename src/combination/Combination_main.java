@@ -20,6 +20,8 @@ public class Combination_main {
 		Combination_lib clib=new Combination_lib();
 		System.out.println(s+"C"+r+"="+clib.getFactorial(s)/(clib.getFactorial(r)*clib.getFactorial(s-r)));
 		
+	
+	    
 	}
 
 }
